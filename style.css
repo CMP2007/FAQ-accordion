@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Work Sans', sans-serif;
+    color: hsl(292, 42%, 14%);
 }
 body{
     background-color: hsl(275, 100%, 97%);
@@ -14,14 +16,42 @@ article{
     margin: 9rem 1.5rem;
     background-color: #FFF;
     border-radius: 2%;
-    padding: 1.5rem;
+    padding: 1.5rem 1.5rem 0 1.5rem;
 }
-summary{
-    list-style: none;
+.star{
+    width: 1.5rem;
+    margin-right: 1rem;
 }
 h1, h4{
     display: inline-block;
 }
+h1{
+    font-size: 2rem;
+}
+details{
+    padding: 1.4rem 0;
+    border-bottom: solid 0.15rem hsl(275, 100%, 97%);
+}
+details:nth-of-type(4){
+    border-bottom: none;
+}
+summary{
+    list-style: none;
+    display: flex;
+    
+}
+h4{
+    width: 15rem;
+    margin-right: 2rem;
+}
+p{
+    color: hsl(292, 16%, 49%);
+    font-size: .9rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+    margin-top: 1.5rem;
+}
+
 
 
 .attribution { font-size: 11px; text-align: center; }
