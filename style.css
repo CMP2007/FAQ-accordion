@@ -7,9 +7,10 @@
 body{
     background-color: hsl(275, 100%, 97%);
     background-image: url(./assets/images/background-pattern-mobile.svg);
+    background-size: 27.5rem;
     background-position: center top;
     background-repeat: no-repeat;
-    width: 375px;
+    max-width: 440px;
     margin: 0 auto;
 }
 article{
@@ -40,9 +41,12 @@ summary{
     display: flex;
     
 }
+summary:hover h4{
+    color: #AD28EB
+}
 h4{
     width: 15rem;
-    margin-right: 2rem;
+    margin: .5rem 2rem 0 0;
 }
 p{
     color: hsl(292, 16%, 49%);
