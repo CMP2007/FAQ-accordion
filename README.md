@@ -52,7 +52,7 @@ At this time I want to continue doing challenges and practices based on HTML, CS
 
 ### Useful resources
 
-- [Video guia de la importancia y inplementacion del archivo normalice](https://www.example.com) - This video allows me to understand and apply the normalize file, an implementation that was really useful to solve certain visual regression errors that arose when uploading the project to github pages.
+- [Video guia de la importancia y inplementacion del archivo normalize](https://www.example.com) - This video allows me to understand and apply the normalize file, an implementation that was really useful to solve certain visual regression errors that arose when uploading the project to github pages.
 
 Therefore, this resource was very useful for the development of the challenge, without a doubt it is a small correction that will be felt in my future practices.
 
